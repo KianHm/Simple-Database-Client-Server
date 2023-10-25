@@ -1,4 +1,4 @@
-//Seyed-Kian-Hakim, Project #3, 5/10/2023
+
 #include <arpa/inet.h>
 #include <assert.h>
 #include <errno.h>
